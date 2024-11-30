@@ -9,7 +9,7 @@ The project is organized using clean architecture:
 - **Domain Layer**: Holds the core entities/models of the project.
 - **Infrastructure Layer**: Handles database interactions using Entity Framework Core.
 - **Web API Layer**: Manages the REST API controllers for handling client requests.
-- **Web Assembly Layer**: Manages the user interface for registration, login, and viewing employee details.
+
 
  **Prerequisites**
 
@@ -120,4 +120,4 @@ Entity Framework Core
 SQL Server
 JWT Authentication
 Clean Architecture Principles
-Blazor WebAssembly
+
